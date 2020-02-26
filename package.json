@@ -1,0 +1,13 @@
+{
+  "name": "vue-feather-icons-types",
+  "version": "0.1.0",
+  "description": "Simply beautiful open source icons as Vue functional components.",
+  "author": "potato4d <mail@potato4d.me>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "feather-icons": "^4.10.0",
+    "fs-extra": "^8.0.1",
+    "pascal-case": "^2.0.1"
+  }
+}
